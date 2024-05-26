@@ -1,0 +1,17 @@
+/*---------------- 
+-- tailwind css
+-----------------*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/*------------------- 
+-- Common Styles
+-------------------*/
+body{
+    font-family: "Poppins", sans-serif;
+    background-image: url(../imgs/i-like-food.svg);
+    background-color: aliceblue;
+}
